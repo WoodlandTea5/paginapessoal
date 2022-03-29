@@ -1,0 +1,23 @@
+{
+  "name": "paginapessoal",
+  "version": "1.0.0",
+  "description": "Página pessoal pessoal",
+  "main": "index.html",
+  "scripts": {
+    "start":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoodlandTea5/paginapessoal.git"
+  },
+  "author": "Gustavo Carvalho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WoodlandTea5/paginapessoal/issues"
+  },
+  "homepage": "https://github.com/WoodlandTea5/paginapessoal#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
